@@ -1,0 +1,9 @@
+ul {
+    display: none;
+}
+
+input {
+    border-radius: 12px;
+    border-color: black;
+    padding-left: 10px;
+}
